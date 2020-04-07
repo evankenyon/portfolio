@@ -1,0 +1,9 @@
+.navbar-custom {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #e3e3e3;
+}
+
+.navbar .navbar-brand {
+    font-weight: 700;
+}
