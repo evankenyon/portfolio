@@ -1,9 +1,43 @@
 .navbar-custom {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #e3e3e3;
+  opacity: 85%;
+  background-color: rgba(115, 79, 150, .8);
 }
 
 .navbar .navbar-brand {
-    font-weight: 700;
+    font-weight: 600;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
 }
+
+.nav-link {
+    font-weight: 400;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2rem;
+}
+
+.d-block {
+    max-width: 65%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slide{
+    margin-top: 4.8rem;
+    background-position: center;
+    background-image: url("/static/images/carousel/1.png");
+}
+
+#home {
+    padding: 2rem 2rem;
+}
+
+.body {
+    background-color: lightgrey;
+}
+

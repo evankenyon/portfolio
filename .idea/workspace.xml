@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d201ef82-1891-449a-ae01-f6acb8a7a051" name="Default Changelist" comment="" />
+    <list default="true" id="d201ef82-1891-449a-ae01-f6acb8a7a051" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/portfolio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/portfolio.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a93VLb8elDsmKtcKcpWYfO6tCd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +41,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -38,6 +54,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/static/images/carousel" />
       <recent name="$PROJECT_DIR$/static/css" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -79,7 +97,8 @@
       <updated>1586134004068</updated>
       <workItem from="1586134005403" duration="256000" />
       <workItem from="1586143002660" duration="2587000" />
-      <workItem from="1586225337335" duration="263000" />
+      <workItem from="1586225337335" duration="677000" />
+      <workItem from="1586297666140" duration="18803000" />
     </task>
     <servers />
   </component>
@@ -91,9 +110,10 @@
       <screen x="0" y="23" width="1680" height="975" />
     </state>
     <state x="349" y="149" key="SettingsEditor/0.23.1680.975@0.23.1680.975" timestamp="1586143034432" />
-    <state x="519" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586225360199">
-      <screen x="0" y="23" width="1680" height="978" />
+    <state x="519" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586297666929">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state x="519" y="344" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586297666929" />
     <state x="519" y="343" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1586143002947" />
     <state x="519" y="344" key="com.intellij.ide.util.TipDialog/0.23.1680.978@0.23.1680.978" timestamp="1586225360199" />
   </component>
